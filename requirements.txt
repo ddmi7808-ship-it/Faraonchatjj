@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+requests
+tavily-python
+APScheduler
+gTTS
+youtube-transcript-api
+pymupdf
